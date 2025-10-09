@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Thảo
 
-<!--
-**zebra-is-missing/zebra-is-missing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at Hanoi University of Science and Technology (HUST).
+💻 Passionate about coding - building tools that make life easier.
+🌱 Currently learning C, Python, and algorithms.
 
-Here are some ideas to get you started:
+### 🧠 Tech Stack
+🧩 Fresh and learning with: C | Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+🧮 **Sudoku Solver (C)** – Backtracking algorithm to solve 9x9 puzzles
+
+“Turning ideas into small tools to ease up everyday tasks.”  
+🎮 Gamer | 🎨 Ex-illustrator | ☕ Lazy coder
