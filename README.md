@@ -67,10 +67,9 @@ Key Features:
 
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zebra-is-missing&show_icons=true&theme=transparent&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zebra-is-missing&layout=compact&theme=transparent&hide_border=true)
+
+
 
 💻 Passionate about coding - building tools that make life easier.
 
