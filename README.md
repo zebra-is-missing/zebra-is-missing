@@ -1,4 +1,4 @@
-# Hi, I'm Thảo
+# Hi, I'm Thảo (タオ）
 
 ### Software Engineering Student
 ### Aspiring Fullstack Developer
@@ -33,17 +33,29 @@ An interactive learning platform featuring:
 (https://miraimind.glyzinie-h.workers.dev)
 
 ### JumpKid - 2D Jump Platform Game
-A cozy, story-driven platformer featuring charge-based jumping, procedural platform generation, and a high-score system.
+**Tech Stack:** Unity, C#
+A relaxing 2D platformer featuring charge-based jumping mechanics, procedurally generated platforms, and a high-score system.
 
-**Tech:** Unity, C#
+Key Features:
+- Charge-based jumping mechanics
+- Procedural platform generation
+- High-score tracking system
+- Story-driven gameplay
+- Cozy visuals and relaxing background music
 
 **Role:** Developer
 (https://github.com/zebra-is-missing/JumpKid)
 
 ### 🕵️ Masked — 2D Stealth RPG Game
-A story-driven stealth adventure combining enemy avoidance, mysterious exploration, and environmental puzzle-solving.
+**Tech Stack:** Java, LibGDX
+A story-driven 2D stealth RPG combining exploration, enemy avoidance, and puzzle-solving in a mysterious world.
 
-**Tech:** Java
+Key Features:
+- Stealth-based gameplay and enemy avoidance
+- Interactive environmental puzzles
+- Story-driven exploration
+- Enemy behavior and movement mechanics
+- Atmospheric level design
 
 **Role:** Team Leader, Game Designer, Game Artist and Developer.
 (https://github.com/zebra-is-missing/Masked)
@@ -51,6 +63,12 @@ A story-driven stealth adventure combining enemy avoidance, mysterious explorati
 ## 📫 Connect With Me
 
 - Email: thaohm.work@gmail.com
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zebra-is-missing&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 💻 Passionate about coding - building tools that make life easier.
 
