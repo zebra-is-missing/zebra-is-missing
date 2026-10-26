@@ -35,6 +35,7 @@ An interactive learning platform featuring:
 
 ### JumpKid - 2D Jump Platform Game
 **Tech Stack:** Unity, C#
+
 A relaxing 2D platformer featuring charge-based jumping mechanics, procedurally generated platforms, and a high-score system.
 
 Key Features:
@@ -49,6 +50,7 @@ Key Features:
 
 ### 🕵️ Masked — 2D Stealth RPG Game
 **Tech Stack:** Java, LibGDX
+
 A story-driven 2D stealth RPG combining exploration, enemy avoidance, and puzzle-solving in a mysterious world.
 
 Key Features:
