@@ -68,7 +68,7 @@ Key Features:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zebra-is-missing&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zebra-is-missing&layout=compact&theme=tokyonight)
 
 💻 Passionate about coding - building tools that make life easier.
 
