@@ -1,9 +1,9 @@
 # Hi, I'm Thảo (タオ）
 
-### Software Engineering Student
+### Computer Science Student
 ### Aspiring Fullstack Developer
 
-I'm a third-year Information Technology student at Hanoi University of Science and Technology (HUST).
+I'm a third-year Computer Science student at Hanoi University of Science and Technology (HUST).
 
 - 💡 Interested in AI and software engineering
 - 🎯 Goal: Become a professional Software Engineer
