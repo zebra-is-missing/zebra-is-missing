@@ -8,6 +8,9 @@ I'm a third-year Information Technology student at Hanoi University of Science a
 - 💡 Interested in AI and software engineering
 - 🎯 Goal: Become a professional Software Engineer
 
+## 🛠 Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=c,c++,c#,java,python,html,css,js,nextjs,django,unity,mysql,docker,git)
 
 ## 🧠 Tech Stack
 
