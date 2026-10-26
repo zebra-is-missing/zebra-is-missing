@@ -8,21 +8,19 @@ I'm a third-year Information Technology student at Hanoi University of Science a
 - 💡 Interested in AI and software engineering
 - 🎯 Goal: Become a professional Software Engineer
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=c,c++,c#,java,python,html,css,js,nextjs,django,unity,mysql,docker,git)
+### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,python,js)
 
-## 🧠 Tech Stack
+### 🌐 Web Development
+![Web](https://skillicons.dev/icons?i=html,css,nextjs,django)
 
-**Languages:**  C/C++, C#, Python, Java,
+### 🎮 Game Development
+![Game](https://skillicons.dev/icons?i=unity,java)
 
-**Framework:** Django, Unity
-
-**Frontend:** Next.js
-
-**Database:** MySQL, PostgreSQL
-
-**Tools:** Git, GitHub, Docker
+### 🗄️ Database & Tools
+![Tools](https://skillicons.dev/icons?i=mysql,docker,git)
 
 ## 🚀 Featured Projects
 
